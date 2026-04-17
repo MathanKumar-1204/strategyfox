@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a1",
+    "name": "Arulmihu Karumariamman Temple",
+    "location": "Phuket, Thailand",
+    "image": "https://images.unsplash.com/photo-1598902108854-10e335adac99?w=600&auto=format&fit=crop",
+    "description": "Exquisite Thai architecture and serene surroundings.",
+    "tags": ["cultural", "morning", "nature"]
+  },
+  {
+    "id": "a2",
+    "name": "Halong Bay Cruise",
+    "location": "Quang Ninh, Vietnam",
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=600&auto=format&fit=crop",
+    "description": "Sail through thousands of emerald peaks rising from the sea.",
+    "tags": ["nature", "secluded", "relaxation"]
+  },
+  {
+    "id": "a3",
+    "name": "Tegallalang Rice Terrace",
+    "location": "Ubud, Bali",
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?w=600&auto=format&fit=crop",
+    "description": "Cascading rice paddies offering iconic tropical vistas.",
+    "tags": ["nature", "light_adventure", "morning"]
+  },
+  {
+    "id": "a4",
+    "name": "Gardens by the Bay",
+    "location": "Marina Bay, Singapore",
+    "image": "https://images.unsplash.com/photo-1525596662741-e94ff9f26de1?w=600&auto=format&fit=crop",
+    "description": "Spectacular futuristic garden with solar-powered Supertrees.",
+    "tags": ["urban", "luxury", "evening"]
+  },
+  {
+    "id": "a5",
+    "name": "Petronas Twin Towers",
+    "location": "Kuala Lumpur, Malaysia",
+    "image": "https://images.unsplash.com/photo-1532442782935-dc7ee648a2a5?w=600&auto=format&fit=crop",
+    "description": "The world's tallest twin towers showcasing modern Malaysia.",
+    "tags": ["urban", "luxury", "afternoon"]
+  },
+  {
+    "id": "a6",
+    "name": "Victoria Peak",
+    "location": "Hong Kong Island, HK",
+    "image": "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?w=600&auto=format&fit=crop",
+    "description": "Breathtaking panoramic views of the city skyline and harbor.",
+    "tags": ["urban", "social", "evening"]
+  },
+  {
+    "id": "a7",
+    "name": "Maafushi Sandbank",
+    "location": "Maldives",
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=600&auto=format&fit=crop",
+    "description": "Secluded crystalline sands surrounded by turquoise infinity.",
+    "tags": ["nature", "secluded", "relaxation"]
+  }
+]

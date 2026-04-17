@@ -1,0 +1,418 @@
+[
+  {
+    "id": "thailand-01",
+    "name": "Thailand: Islands & Temples",
+    "package_name": "Bangkok and Phuket",
+    "duration": "5 Nights 6 Days",
+    "category": "Family",
+    "price": "₹42,999",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Bangkok",
+        "description": "Meet and transfer to hotel. Evening dinner cruise on the Chao Phraya River."
+      },
+      {
+        "day": 2,
+        "title": "Bangkok Temple Tour",
+        "description": "Visit Wat Pho (Reclining Buddha) and the Grand Palace."
+      },
+      {
+        "day": 3,
+        "title": "Fly to Phuket",
+        "description": "Arrival in Phuket. Relaxation at Patong Beach."
+      },
+      {
+        "day": 4,
+        "title": "Phi Phi Island Speedboat Tour",
+        "description": "Full day tour including snorkeling and exploring Maya Bay."
+      },
+      {
+        "day": 5,
+        "title": "Phuket Old Town",
+        "description": "Explore the vibrant Sino-Portuguese architecture and local markets."
+      },
+      {
+        "day": 6,
+        "title": "Departure",
+        "description": "Transfer to Phuket airport for flight home."
+      }
+    ],
+    "highlights": [
+      "Maya Bay",
+      "Grand Palace",
+      "Phi Phi Islands",
+      "Dinner Cruise"
+    ],
+    "description": "Experience the perfect mix of Thailand's bustling urban culture and its world-famous tropical islands.",
+    "locations": ["Bangkok", "Phuket", "Phi Phi"],
+    "image": "https://images.unsplash.com/photo-1519451241324-20b4ea2c4220?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dGhhaWxhbmR8ZW58MHx8MHx8fDA%3D"
+  },
+  {
+    "id": "vietnam-01",
+    "name": "Vietnam: Dragon's Emerald Descent",
+    "package_name": "Hanoi and Halong Bay",
+    "duration": "4 Nights 5 Days",
+    "category": "Couple",
+    "price": "₹38,500",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Hanoi",
+        "description": "Welcome dinner and exploring the Old Quarter."
+      },
+      {
+        "day": 2,
+        "title": "Hanoi City Tour",
+        "description": "Visit Ho Chi Minh Mausoleum and Temple of Literature."
+      },
+      {
+        "day": 3,
+        "title": "Halong Bay Cruise",
+        "description": "Transfer to Halong Bay for an overnight luxury cruise."
+      },
+      {
+        "day": 4,
+        "title": "Explore Caves & Return",
+        "description": "Morning Tai Chi, cave exploration, and return to Hanoi."
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "description": "Leisure time and airport transfer."
+      }
+    ],
+    "highlights": [
+      "Luxury Halong Cruise",
+      "Hanoi Old Quarter",
+      "Authentic Pho Tasting"
+    ],
+    "description": "Journey through the mist-covered limestone karsts and the ancient streets of North Vietnam.",
+    "locations": ["Hanoi", "Halong Bay"],
+    "image": "https://images.unsplash.com/photo-1528127269322-539801943592?q=80&w=1170&auto=format&fit=crop"
+  },
+  {
+    "id": "bali-01",
+    "name": "Bali: Ultimate Island Zen",
+    "package_name": "Ubud and Seminyak",
+    "duration": "6 Nights 7 Days",
+    "category": "Couple",
+    "price": "₹55,000",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival in Bali",
+        "description": "Transfer to Ubud jungle villa."
+      },
+      {
+        "day": 2,
+        "title": "Ubud Culture & Nature",
+        "description": "Tegallalang Rice Terrace and Sacred Monkey Forest."
+      },
+      {
+        "day": 3,
+        "title": "Batur Volcano Hike",
+        "description": "Sunrise trek to Mount Batur followed by hot springs."
+      },
+      {
+        "day": 4,
+        "title": "Transfer to Seminyak",
+        "description": "Move to the beach side. Evening at Potato Head Beach Club."
+      },
+      {
+        "day": 5,
+        "title": "Nusa Penida Tour",
+        "description": "Day trip to the iconic Kelingking Beach."
+      },
+      {
+        "day": 6,
+        "title": "Uluwatu Sunset",
+        "description": "Kecak fire dance at the edge of the Uluwatu cliffs."
+      },
+      {
+        "day": 7,
+        "title": "Departure",
+        "description": "Last minute shopping and airport transfer."
+      }
+    ],
+    "highlights": [
+      "Tegallalang Rice Terrace",
+      "Kelingking Beach",
+      "Uluwatu Dance",
+      "Jungle Villas"
+    ],
+    "description": "Reconnect with yourself in the spiritual heart of Indonesia, from misty jungles to golden beaches.",
+    "locations": ["Ubud", "Seminyak", "Nusa Penida"],
+    "image": "https://images.unsplash.com/photo-1537996194471-e657df975ab4?q=80&w=1038&auto=format&fit=crop"
+  },
+  {
+    "id": "maldives-01",
+    "name": "Maldives: Blue Lagoon Bliss",
+    "package_name": "Private Island Resort",
+    "duration": "3 Nights 4 Days",
+    "category": "Couple",
+    "price": "₹95,000",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Sea Plane Arrival",
+        "description": "Arrive at Malé and take a sea plane to your luxury overwater villa."
+      },
+      {
+        "day": 2,
+        "title": "Snorkeling Safari",
+        "description": "Guided tour to explore the house reef teeming with marine life."
+      },
+      {
+        "day": 3,
+        "title": "Romantic Sandbank Dinner",
+        "description": "Private dinner setup on a secluded sandbank under the stars."
+      },
+      {
+        "day": 4,
+        "title": "Departure",
+        "description": "Sea plane back to Malé for international flight."
+      }
+    ],
+    "highlights": [
+      "Overwater Villa",
+      "Sea Plane Transfer",
+      "Private Sandbank Dinner"
+    ],
+    "description": "The ultimate luxury escape to the world's most beautiful turquoise waters.",
+    "locations": ["Malé", "Private Island"],
+    "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?q=80&w=1065&auto=format&fit=crop"
+  },
+  {
+    "id": "hongkong-01",
+    "name": "Hong Kong: Neon Skylines",
+    "package_name": "HK Island & Kowloon",
+    "duration": "4 Nights 5 Days",
+    "category": "Family",
+    "price": "₹68,000",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in Hong Kong",
+        "description": "Airport Express transfer and evening Symphony of Lights show."
+      },
+      {
+        "day": 2,
+        "title": "Victoria Peak & Harbour",
+        "description": "Take the Peak Tram for panoramic views and Star Ferry across the harbour."
+      },
+      {
+        "day": 3,
+        "title": "Disneyland Adventure",
+        "description": "A full day of magic at Hong Kong Disneyland."
+      },
+      {
+        "day": 4,
+        "title": "Lantau Island Big Buddha",
+        "description": "Ngong Ping 360 cable car to the Tian Tan Buddha."
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "description": "Shopping at Causeway Bay before airport transfer."
+      }
+    ],
+    "highlights": [
+      "Victoria Peak",
+      "HK Disneyland",
+      "Big Buddha",
+      "Symphony of Lights"
+    ],
+    "description": "Experience the high-energy pulse of East-meets-West in the neon-lit streets of Hong Kong.",
+    "locations": ["Kowloon", "Lantau Island"],
+    "image": "https://images.unsplash.com/photo-1506461883276-594a12b11cf3?q=80&w=1170&auto=format&fit=crop"
+  },
+  {
+    "id": "malaysia-01",
+    "name": "Malaysia: Cultural Mosaic",
+    "package_name": "Kuala Lumpur & Langkawi",
+    "duration": "5 Nights 6 Days",
+    "category": "Adventurers",
+    "price": "₹45,999",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrive in KL",
+        "description": "Transfer to hotel and visit Petronas Twin Towers."
+      },
+      {
+        "day": 2,
+        "title": "Batu Caves & City Tour",
+        "description": "Explore the iconic limestone hill and city heritage sites."
+      },
+      {
+        "day": 3,
+        "title": "Fly to Langkawi",
+        "description": "Island arrival and evening sunset beach dinner."
+      },
+      {
+        "day": 4,
+        "title": "Langkawi Sky Bridge",
+        "description": "Spectacular views from the cable car and sky bridge."
+      },
+      {
+        "day": 5,
+        "title": "Island Hopping",
+        "description": "Boat tour to Pulau Dayang Bunting and other islands."
+      },
+      {
+        "day": 6,
+        "title": "Departure",
+        "description": "Transfer to airport."
+      }
+    ],
+    "highlights": [
+      "Petronas Twin Towers",
+      "Langkawi Sky Bridge",
+      "Batu Caves"
+    ],
+    "description": "The quintessential Malaysian experience blending urban marvels with tropical island beauty.",
+    "locations": ["Kuala Lumpur", "Langkawi"],
+    "image": "https://images.unsplash.com/photo-1532442782935-dc7ee648a2a5?q=80&w=1112&auto=format&fit=crop"
+  },
+  {
+    "id": "bangkok-01",
+    "name": "Bangkok: Royal Icons & Skyline Nights",
+    "package_name": "Bangkok Experiences",
+    "duration": "4 Nights 5 Days",
+    "category": "Family",
+    "price": "₹34,999",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Chao Phraya Dinner Cruise",
+        "description": "Arrive in Bangkok and enjoy an evening Chao Phraya river cruise with dinner."
+      },
+      {
+        "day": 2,
+        "title": "Temple Trail & Grand Palace",
+        "description": "Visit Marble Buddha, Reclining Buddha (Wat Pho), and the Grand Palace."
+      },
+      {
+        "day": 3,
+        "title": "Safari World & Marine Park",
+        "description": "Full-day adventure at Safari World and Marine Park with lunch included."
+      },
+      {
+        "day": 4,
+        "title": "Skywalk & City Attractions",
+        "description": "Explore Mahanakhon Skywalk, Madam Tussauds, and Sea Life Bangkok Ocean World."
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "description": "Leisure time for shopping before airport transfer."
+      }
+    ],
+    "highlights": [
+      "Grand Palace",
+      "Marble Buddha & Reclining Buddha",
+      "Chao Phraya Dinner Cruise",
+      "Mahanakhon Skywalk",
+      "Safari World & Marine Park"
+    ],
+    "description": "Discover Bangkok's royal heritage, modern skyline, and family-friendly attractions in one vibrant trip.",
+    "locations": ["Bangkok"],
+    "image": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?q=80&w=1170&auto=format&fit=crop"
+  },
+  {
+    "id": "phuket-01",
+    "name": "Phuket: Islands, Adventure & Night Spectacles",
+    "package_name": "Phuket Experiences",
+    "duration": "5 Nights 6 Days",
+    "category": "Adventurers",
+    "price": "₹49,999",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Phuket City Tour",
+        "description": "Explore Phuket city highlights and visit the iconic Big Buddha."
+      },
+      {
+        "day": 2,
+        "title": "Phi Phi Island Speedboat Tour",
+        "description": "Full-day Phi Phi Island tour by speedboat with lunch."
+      },
+      {
+        "day": 3,
+        "title": "James Bond Island Excursion",
+        "description": "Long-tail boat journey with sea canoeing and lunch at James Bond Island."
+      },
+      {
+        "day": 4,
+        "title": "Adventure Combo Day",
+        "description": "ATV ride, river rafting, flying fox, and elephant trekking experiences."
+      },
+      {
+        "day": 5,
+        "title": "Shows & Tiger Encounter",
+        "description": "Visit Tiger Kingdom and enjoy Carnival Magic or Phuket Fantasea with dinner."
+      },
+      {
+        "day": 6,
+        "title": "Departure",
+        "description": "Free time before airport transfer."
+      }
+    ],
+    "highlights": [
+      "Phi Phi Island Tour",
+      "James Bond Island with Sea Canoe",
+      "ATV and River Rafting",
+      "Carnival Magic / Phuket Fantasea",
+      "Tiger Kingdom Encounter"
+    ],
+    "description": "A thrill-packed Phuket holiday blending iconic island tours, outdoor adventures, and signature evening shows.",
+    "locations": ["Phuket", "Phi Phi Island", "James Bond Island"],
+    "image": "https://images.unsplash.com/photo-1589394815804-964ed0be2eb5?q=80&w=1170&auto=format&fit=crop"
+  },
+  {
+    "id": "pattaya-01",
+    "name": "Pattaya: Coastal Vibes & Entertainment",
+    "package_name": "Pattaya Experiences",
+    "duration": "4 Nights 5 Days",
+    "category": "Friends",
+    "price": "₹36,999",
+    "itinerary": [
+      {
+        "day": 1,
+        "title": "Arrival & Alcazar Show",
+        "description": "Arrive in Pattaya and enjoy the famous Alcazar cabaret show."
+      },
+      {
+        "day": 2,
+        "title": "Coral Island & City Tour",
+        "description": "Speedboat trip to Coral Island followed by a guided Pattaya city tour."
+      },
+      {
+        "day": 3,
+        "title": "Culture & Nature Day",
+        "description": "Visit Sanctuary of Truth, Floating Market, and Noong Nooch Village & Garden."
+      },
+      {
+        "day": 4,
+        "title": "Tiger Encounters & Party Night",
+        "description": "Experience Tiger Topia and Tiger Kingdom, then enjoy a yacht or pool party with music and drinks."
+      },
+      {
+        "day": 5,
+        "title": "Departure",
+        "description": "Check-out and transfer for onward journey."
+      }
+    ],
+    "highlights": [
+      "Alcazar Show",
+      "Sanctuary of Truth",
+      "Coral Island Speedboat Tour",
+      "Noong Nooch Village & Garden",
+      "Yacht / Pool Party"
+    ],
+    "description": "From temple architecture and island waters to nightlife and party experiences, Pattaya offers an action-filled escape.",
+    "locations": ["Pattaya", "Coral Island"],
+    "image": "https://images.unsplash.com/photo-1528181304800-259b08848526?q=80&w=1170&auto=format&fit=crop"
+  }
+]

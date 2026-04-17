@@ -19,16 +19,13 @@ SUPABASE_URL = os.environ.get('SUPABASE_URL')
 SUPABASE_KEY = os.environ.get('SUPABASE_KEY')
 supabase: Client = create_client(SUPABASE_URL, SUPABASE_KEY)
 
-# Load available packages
-with open('src/packages.json', 'r') as f:
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+with open(os.path.join(BASE_DIR, 'src/packages.json'), 'r') as f:
     AVAILABLE_PACKAGES = json.load(f)
-print(f"✅ Loaded {len(AVAILABLE_PACKAGES)} packages")
 
-# Load attractions data
-with open('src/attractions.json', 'r') as f:
+with open(os.path.join(BASE_DIR, 'src/attractions.json'), 'r') as f:
     AVAILABLE_ATTRACTIONS = json.load(f)
-print(f"✅ Loaded {len(AVAILABLE_ATTRACTIONS)} attractions")
-
 # Experience image mapping from Dashboard.jsx
 EXPERIENCE_IMAGE_MAP = {
     # Thailand
